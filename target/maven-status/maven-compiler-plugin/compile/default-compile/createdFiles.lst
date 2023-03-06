@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\ExpenseController.class
+com\example\demo\ExpenseRepository.class
+com\example\demo\Expense.class
+com\example\demo\User.class

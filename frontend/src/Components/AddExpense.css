@@ -1,0 +1,12 @@
+.container{
+    margin-top: 15vh;
+    background-color: grey;
+    height: 70vh;
+    background-color: #eec0c6;
+    background-image: linear-gradient(315deg, #eec0c6 0%, #7ee8fa 74%);
+
+}
+
+.form-container{
+height: 85%;
+}
